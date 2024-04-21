@@ -1,0 +1,14 @@
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\bin\Debug\net8.0\BinarySearchImplementation.exe
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\bin\Debug\net8.0\BinarySearchImplementation.deps.json
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\bin\Debug\net8.0\BinarySearchImplementation.runtimeconfig.json
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\bin\Debug\net8.0\BinarySearchImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\bin\Debug\net8.0\BinarySearchImplementation.pdb
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\BinarySearchImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\BinarySearchImplementation.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\BinarySearchImplementation.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\BinarySearchImplementation.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\BinarySearchImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\refint\BinarySearchImplementation.dll
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\BinarySearchImplementation.pdb
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\BinarySearchImplementation.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive - Mansoura University - Main\Self-Study\CIS\Backend\week4\BinarySearchImplementation\BinarySearchImplementation\obj\Debug\net8.0\ref\BinarySearchImplementation.dll
